@@ -21,8 +21,8 @@ brew install ffmpeg
 
 1. Clone Repo and navigate inside repo.
 ```sh
-git clone ...
-cd
+git clone git@github.com:ajcantor1/ascii_media_player.git
+cd ascii_media_player
 ```
 
 2. Install python libraries.
