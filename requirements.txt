@@ -1,0 +1,9 @@
+ascii_magic==2.3.0
+colorama==0.4.6
+imageio==2.33.1
+moviepy==1.0.3
+numpy==1.26.4
+opencv_python==4.9.0.80
+Pillow==10.2.0
+pygame==2.5.2
+pytube==15.0.0
