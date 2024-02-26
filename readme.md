@@ -30,9 +30,9 @@ cd ascii_media_player
 pip3 install -r ./requirements.txt
 ```
 
-2. Install python libraries
+3. Run
 ```sh
-pip3 install -r ./requirements.txt
+python3 run.py -l https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
 
